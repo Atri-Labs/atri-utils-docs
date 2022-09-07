@@ -107,7 +107,7 @@ const config = {
 						items: [
 							{
 								label: "Blog",
-								to: "/blog",
+								to: "https://docs.atrilabs.com/blogs",
 							},
 							{
 								label: "GitHub",
